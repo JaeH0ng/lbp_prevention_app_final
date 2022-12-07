@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "829681008796",
+    "project_id": "lbp-app-50893",
+    "storage_bucket": "lbp-app-50893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829681008796:android:57b9ca19927cc166d3ad59",
+        "android_client_info": {
+          "package_name": "com.lbp_web.lbp_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829681008796-lido8mjiktm2pr44irnb20dmceb9vpe1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-MH00uioiGjt3T-YAh3gbyfGyj1ZGPWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829681008796-lido8mjiktm2pr44irnb20dmceb9vpe1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829681008796-qdvcjh7ujs8quql150759ie6uticbrj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lbpweb.lbpWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

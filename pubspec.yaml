@@ -1,0 +1,108 @@
+name: lbp_web
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.18.4 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.5
+  get: 4.6.5
+  flutter: 
+    sdk: flutter
+  firebase_auth: ^4.1.4
+  firebase_core: ^2.3.0
+  cloud_firestore: ^4.1.0
+  flutterfire_ui: ^0.4.3+20
+  circular_countdown_timer: ^0.2.3
+  syncfusion_flutter_charts: ^20.3.59
+  time_chart: ^0.5.2
+  fl_chart: ^0.55.2
+
+dev_dependencies: 
+#  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/app/images/icons/maskable_icon_x128.png
+    - lib/app/images/icons/maskable_icon_x192.png
+    - lib/app/images/icons/maskable_icon_x384.png
+    - lib/app/images/icons/maskable_icon_x512.png
+    - lib/app/images/logo_image/logo_image.png
+    - lib/app/images/endDrawer/dead_bug1.png
+    - lib/app/images/endDrawer/trunk_curl_sit_up2.png
+    - lib/app/images/endDrawer/superman3.png
+    - lib/app/images/endDrawer/stretching_iliopsoas4.png
+    - lib/app/images/endDrawer/bird_dog5.png
+    - lib/app/images/endDrawer/bridge_6.png
+    - lib/app/images/endDrawer/cobra_7.png
+    - lib/app/images/endDrawer/last_stretching.png
+    - lib/app/images/muscleImages/abdominis/abdominalMuscles.jpg
+    - lib/app/images/muscleImages/abdominis/externusAbdominis.jpg
+    - lib/app/images/muscleImages/abdominis/internusAbdominis.jpg
+    - lib/app/images/muscleImages/abdominis/rectusAbdominis.jpg
+    - lib/app/images/muscleImages/abdominis/transversusAbdominis.jpg
+    - lib/app/images/muscleImages/erectorSpinaeMuscles.jpg
+    - lib/app/images/muscleImages/iliacus.jpg
+    - lib/app/images/muscleImages/iliopsoas.jpg
+    - lib/app/images/muscleImages/multifidusMuscle.jpg
+    - lib/app/images/toRead/breath1/breathe_1_1.gif
+    - lib/app/images/toRead/breath1/breathe_1_2.gif
+    - lib/app/images/toRead/breath1/breathe_1_3.gif
+    - lib/app/images/toRead/breath2/breathe_2_1.gif
+    - lib/app/images/toRead/breath3/breathe_3_1.gif
+    - lib/app/images/toRead/breath4/breathe_4_1.gif
+    - lib/app/images/toRead/posture6/breathe_6_1.jpg
+    - lib/app/images/toRead/posture7/breathe_7_1.gif
+    - lib/app/images/toRead/back8/back_8_1.jpg
+    - lib/app/images/toRead/back9/back_9_1.jpg
+    - lib/app/images/toRead/abdominis10/abdominus_10_1.jpg
+    - lib/app/images/toRead/abdominis10/abdominus_10_2.gif
+    - lib/app/images/toRead/abdominis11/abdominus_11_1.gif
+    - lib/app/images/toRead/back12/back_12_1.gif
+    - lib/app/images/toRead/back12/back_12_2.gif
+    - lib/app/images/toRead/back13/back_13_1.gif
+    - lib/app/images/toRead/back13/back_13_2.gif
+    - lib/app/images/actionGif/bridge6.gif
+    - lib/app/images/actionGif/bridge6_rest.gif
+    - lib/app/images/actionGif/cobra7.gif
+    - lib/app/images/actionGif/cobra7_rest.gif
+    - lib/app/images/actionGif/dead_bug1.gif
+    - lib/app/images/actionGif/lying_rest1.gif
+    - lib/app/images/actionGif/lying_rest2.gif
+    - lib/app/images/actionGif/superman3.gif
+    - lib/app/images/actionGif/superman3_rest.gif
+    - lib/app/images/actionGif/trunk_surl_sit_up2_rest.gif
+    - lib/app/images/actionGif/trunkCurlSitUp2.gif
+    - lib/app/images/actionGif/bird_dog5.gif
+    - lib/app/images/actionGif/trunk_surl_sit_up2.gif
+    - lib/app/images/actionGif/stretching8.gif
+    - lib/app/images/actionGif/stretching_illiopsoas4_1.gif
+    - lib/app/images/actionGif/stretching_illiopsoas4_2.gif
+    - lib/app/images/actionGif/stretching_illiopsoas4_rest.gif
+    - lib/app/images/muscleImages/fire_cracker.png
+  fonts:
+    - family: Samanco
+      fonts:
+        - asset: lib/app/a_text_font/BinggraeSamanco.ttf
+    - family: Samanco_bold
+      fonts:
+          - asset: lib/app/a_text_font/BinggraeSamanco-Bold.ttf
+    - family: NsLight
+      fonts:
+        - asset: lib/app/a_text_font/NanumSquareNeo_aLt.ttf
+    - family: NsRegular
+      fonts:
+        - asset: lib/app/a_text_font/NanumSquareNeo_bRg.ttf
+    - family: NsBold
+      fonts:
+        - asset: lib/app/a_text_font/NanumSquareNeo_cBd.ttf
+    - family: NsExtraBold
+      fonts:
+        - asset: lib/app/a_text_font/NanumSquareNeo_dEb.ttf
+    - family: NsHeavy
+      fonts:
+        - asset: lib/app/a_text_font/NanumSquareNeo_eHv.ttf
