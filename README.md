@@ -1,16 +1,11 @@
 # lbp_web
+(low back pain_web)
 
-A new Flutter project.
+당신의 허리, 오늘도 안녕하신가요?
+현대인들에게 올바른 자세와 적절한 운동을 항상 유지한다는 건 쉽지 않은 일입니다.
 
-## Getting Started
+예비 간호사들이 3개월 간 머리를 싸메고 직접 개발한 허리 통증 경감에 도움이 되는 앱, 허리피라우입니다.
 
-This project is a starting point for a Flutter application.
+당신의 허리피라우, 언제나 저희가 도와드리겠습니다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://lbp-app-50893.web.app/
